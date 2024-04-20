@@ -1,0 +1,24 @@
+#top{
+    text-decoration: underline;
+}
+
+ul{
+    text-align: left;
+    display: inline-block;
+}
+
+ol{
+    color: black;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: left;
+    display: inline-block;
+}
+
+img{
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
